@@ -62,17 +62,12 @@ Currently expanding my expertise in:
 
 ## 📌 Featured Projects
 
-### 📊 Loan Portfolio Risk Analytics
-Power BI dashboard for monitoring portfolio quality, loan performance, borrower segmentation, and default risk.
+### 📊 Commercial Performance Analytics Platform
+Enterprise-level Power BI analytics platform developed for Pernod Ricard Thailand to monitor sales performance, distribution effectiveness, target achievement, and commercial execution through Executive and Self-Service dashboards.
 
-### 🏦 Banking Continuous Audit Dashboard
-Anomaly detection and audit monitoring dashboard designed to support risk-based auditing.
+**Tech Stack:** Power BI, DAX, Azure, Data Modeling
 
-### 📈 Customer Churn Analytics
-Customer retention analysis and churn monitoring dashboard with actionable business insights.
-
-### 🤖 Predictive Analytics
-Machine learning projects focused on risk scoring and customer behavior prediction.
+🔗 Repository: https://github.com/anthonyl001/commercial-performance-analytics-platform
 
 ---
 
